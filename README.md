@@ -1,5 +1,6 @@
 # The Leo Gecko
 PMI -  graduação ADS CESUSC 2023
+![The_Leo_Gecko-removebg-preview](https://github.com/mari2310/Theleogecko/assets/84078506/64dd531e-b49b-471f-90a9-a45a7f373033)
 
 
 📋 The Leo Gecko: aplicativo para ajuda em manuseio de Leopardo Gecko
