@@ -12,3 +12,17 @@ body {
     margin: 0 auto;
 	color:green;
 }
+ .link-icon {
+            text-decoration: none; /* Remova o sublinhado padrão de links */
+            color: #007BFF; /* Cor do texto do link */
+            display: flex; /* Usar flexbox para alinhar ícone e texto lado a lado */
+            align-items: center; /* Alinhar verticalmente ícone e texto */
+        }
+
+        .icon {
+            font-size: 20px; /* Tamanho do ícone */
+            margin-right: 5px; /* Espaço entre o ícone e o texto */
+        }
+
+        .text {
+            font-weight: bold; /* Estilo do texto do link */
