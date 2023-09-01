@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/fundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+	color:green;
+}
