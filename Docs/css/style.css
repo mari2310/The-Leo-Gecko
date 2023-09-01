@@ -1,5 +1,14 @@
-body{
-	background-image: url("images/fundo.png");
-    background-size: cover; /* Isso faz a imagem cobrir todo o corpo */
-    background-repeat: no-repeat; /* Isso impede que a imagem de fundo se repita */
+body {
+    background-image: url("../images/fundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+	color:green;
 }
