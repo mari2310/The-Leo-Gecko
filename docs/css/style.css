@@ -1,45 +1,41 @@
 body {
-    background-image: url("../images/fundo.png");
-    background-size: cover;
-    background-repeat: no-repeat;
+	background-image: url("../images/fundo.png");
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .container {
-    text-align: center;
+    	text-align: center;
 }
-
 .center {
-    display: block;
-    margin: 0 auto;
+    	display: block;
+    	margin: 0 auto;
 	color:green;
 }
- .link-icon {
-            text-decoration: none; /* Remova o sublinhado padrão de links */
-            color: green; /* Cor do texto do link */
-            display: flex; /* Usar flexbox para alinhar ícone e texto lado a lado */
-            align-items: center; /* Alinhar verticalmente ícone e texto */
-        }
-
-        .icon {
-           width: 20px; /* Largura da imagem ícone */
-            height: 20px; /* Altura da imagem ícone */
-            margin-right: 5px; /* Espaço entre a imagem e o texto */
-        }
-
-        .text {
-            font-weight: bold; /* Estilo do texto do link */
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #007BFF; /* Cor de fundo do botão */
-  color: #fff; /* Cor do texto do botão */
-  text-decoration: none; /* Remover sublinhado padrão do link */
-  border: none; /* Remover borda do botão */
-  border-radius: 5px; /* Borda arredondada */
-  font-size: 16px; /* Tamanho da fonte */
-  cursor: pointer; /* Alterar o cursor ao passar o mouse sobre o botão */
-  margin-right: 10px; /* Espaçamento à direita para separar os botões */
+.link-icon {
+	text-decoration: none; /* Remova o sublinhado padrão de links */
+	color: green; /* Cor do texto do link */
+	display: flex; /* Usar flexbox para alinhar ícone e texto lado a lado */
+	align-items: center; /* Alinhar verticalmente ícone e texto */
 }
-
+.icon {
+       	width: 20px; /* Largura da imagem ícone */
+	height: 20px; /* Altura da imagem ícone */
+	margin-right: 5px; /* Espaço entre a imagem e o texto */
+}
+.text {
+       font-weight: bold; /* Estilo do texto do link */
+.button {
+	display: inline-block;
+  	padding: 10px 20px;
+  	background-color: #007BFF; /* Cor de fundo do botão */
+  	color: #fff; /* Cor do texto do botão */
+  	text-decoration: none; /* Remover sublinhado padrão do link */
+  	border: none; /* Remover borda do botão */
+  	border-radius: 5px; /* Borda arredondada */
+  	font-size: 16px; /* Tamanho da fonte */
+  	cursor: pointer; /* Alterar o cursor ao passar o mouse sobre o botão */
+  	margin-right: 10px; /* Espaçamento à direita para separar os botões */
+}
 .button:hover {
-  background-color: #0056b3; /* Cor de fundo do botão ao passar o mouse sobre ele */
+	background-color: #0056b3; /* Cor de fundo do botão ao passar o mouse sobre ele */
 }
