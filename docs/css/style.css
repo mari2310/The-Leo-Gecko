@@ -4,11 +4,11 @@ body {
 	background-repeat: no-repeat;
 }
 .container {
-    	text-align: center;
+    text-align: center;
 }
 .center {
-    	display: block;
-    	margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 	color:green;
 }
 .link-icon {
@@ -18,12 +18,13 @@ body {
 	align-items: center; /* Alinhar verticalmente ícone e texto */
 }
 .icon {
-       	width: 20px; /* Largura da imagem ícone */
+   	width: 20px; /* Largura da imagem ícone */
 	height: 20px; /* Altura da imagem ícone */
 	margin-right: 5px; /* Espaço entre a imagem e o texto */
 }
 .text {
-       font-weight: bold; /* Estilo do texto do link */
+    font-weight: bold; /* Estilo do texto do link */
+}
 .button {
 	display: inline-block;
   	padding: 10px 20px;
