@@ -27,3 +27,19 @@ body {
 
         .text {
             font-weight: bold; /* Estilo do texto do link */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007BFF; /* Cor de fundo do botão */
+  color: #fff; /* Cor do texto do botão */
+  text-decoration: none; /* Remover sublinhado padrão do link */
+  border: none; /* Remover borda do botão */
+  border-radius: 5px; /* Borda arredondada */
+  font-size: 16px; /* Tamanho da fonte */
+  cursor: pointer; /* Alterar o cursor ao passar o mouse sobre o botão */
+  margin-right: 10px; /* Espaçamento à direita para separar os botões */
+}
+
+.button:hover {
+  background-color: #0056b3; /* Cor de fundo do botão ao passar o mouse sobre ele */
+}
