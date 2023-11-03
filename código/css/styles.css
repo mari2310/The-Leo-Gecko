@@ -1,0 +1,218 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+	
+}
+header img {
+    height: 80px;
+}
+header {
+    text-align: center;
+    background: url('header_background_image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px 0;
+}
+
+hr {
+    border: 1px solid #3EA32E;
+}
+
+.logo {
+    text-align: center;
+    margin: 20px 0;
+	
+}
+
+.login-section, .register-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.btn-login, .btn-cadastro, .btn-confirm {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn-gergecko{
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	border:none;
+	float:left;
+	margin-left:80px;
+}
+.btn-button {
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	
+	width:80px;
+	margin:5px;
+}
+
+.btn-login:hover, .btn-cadastro:hover, .btn-button:hover {
+    background-color: #cadfc0;
+}
+
+footer {
+    background: url('footer_background_image.jpg') no-repeat center center;
+    background-size: cover;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.right-content {
+    float: right;
+    margin-top: 10px;
+	
+}
+footer img {
+    height: 80px;
+}
+.cadastro{
+	color:#4b5235;
+}
+.btn-cadastro1{
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	border:none;
+}
+.btn-cadastro1:hover{
+	 background-color: #cadfc0;
+}
+.lacuna{
+	border-radius:15px;
+	 border-color:#3EA32E;
+	 height:20px;
+}
+.btn-deslogar{
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	border:none;
+	float:right;
+	margin-right:60 px;
+}
+.deslogar{
+	
+}
+.btn-deslogar:hover{
+	 background-color: #cadfc0;
+	 float:right;
+}
+.deslogar{
+	
+	float: right;
+    margin-right: 10px;
+}
+.left-image {
+   
+	width:80px;
+}
+
+.header {
+    text-align: center;
+   
+    color: #4b5235;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.gecko-list {
+    margin: 5px 80px;
+    padding: 20px;
+    border: 1px solid #ddd;
+	background-color:#e0e8ce;
+	border-radius:15px;
+}
+
+.gecko-list h2 {
+    font-size: 18px;
+}
+
+.gecko-thumbnail {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.add-gecko-button {
+    
+   
+    padding: 10px 20px;    
+    font-size: 16px;
+	
+	display: inline-block;
+    padding: 10px 20px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	border:none;
+	float:right;
+	margin-right:80px;
+}
+
+.gecko-list ul {
+    list-style: none;
+    padding: 0;
+}
+.registro{
+	background-color:#cadfc0;
+	padding:5px;
+	border-radius:10px;
+}
+.ver{
+	width:25px;
+	display: inline-block;
+	padding:2px;
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	border:none;
+	float:right;
+	
+}
+.icone{
+	width:20px;
+}
+.direita{
+	float: right;
+	margin-right:20px;
+	border:1px;
+	border-radius: 10px;
+	margin-top:3px;
+}
