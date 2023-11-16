@@ -4,14 +4,14 @@ body {
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
-	font-family:Verdana;
+    font-family:Verdana;
 }
 
 .main-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20 px;
 }
 
 .left-div {
@@ -22,11 +22,11 @@ body {
 .right-div {
     flex: 1;
     text-align: center;
-	margin-right:100px;
-	background-color:white;
-	border-radius:10px;
-	opacity:0.6;
-	padding:5px;
+    margin-right:100 px;
+    background-color:white;
+    border-radius:10 px;
+    opacity:0.6;
+    padding:5 px;
 }
 
 .center {
@@ -35,17 +35,17 @@ body {
     color: green;
 }
 .btn{
-	padding:10px;   
-    font-size: 16px;
-	display: inline-block;
+    padding:10 px;   
+    font-size: 16 px;
+    display: inline-block;
     background-color: #3EA32E;
     color: #fff;
     text-decoration: none;
-    border-radius:15px;
+    border-radius:15 px;
     cursor: pointer;
-    transition: background-color 0.3s;
-	border:none;
-	margin-bottom:10px;
+    transition: background-color 0.3 s;
+    border:none;
+    margin-bottom:10 px;
 }
 .btn:hover{
 	 background-color: #cadfc0;
