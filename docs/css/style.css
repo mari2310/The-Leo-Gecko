@@ -1,43 +1,52 @@
 body {
-	background-image: url("../images/fundo.png");
-	background-size: cover;
-	background-repeat: no-repeat;
+    background-image: url("../images/fundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+	font-family:Verdana;
 }
-.container {
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.left-div {
+    flex: 1;
     text-align: center;
 }
+
+.right-div {
+    flex: 1;
+    text-align: center;
+	margin-right:100px;
+	background-color:white;
+	border-radius:10px;
+	opacity:0.6;
+	padding:5px;
+}
+
 .center {
     display: block;
     margin: 0 auto;
-	color:green;
+    color: green;
 }
-.link-icon {
-	text-decoration: none; /* Remova o sublinhado padrão de links */
-	color: green; /* Cor do texto do link */
-	display: flex; /* Usar flexbox para alinhar ícone e texto lado a lado */
-	align-items: center; /* Alinhar verticalmente ícone e texto */
-}
-.icon {
-   	width: 20px; /* Largura da imagem ícone */
-	height: 20px; /* Altura da imagem ícone */
-	margin-right: 5px; /* Espaço entre a imagem e o texto */
-}
-.text {
-    font-weight: bold; /* Estilo do texto do link */
-}
-.button {
+.btn{
+	padding:10px;   
+    font-size: 16px;
 	display: inline-block;
-  	padding: 10px 20px;
-  	background-color:green; /* Cor de fundo do botão */
-  	color: #fff; /* Cor do texto do botão */
-  	text-decoration: none; /* Remover sublinhado padrão do link */
-  	border: none; /* Remover borda do botão */
-  	border-radius: 5px; /* Borda arredondada */
-  	font-size: 16px; /* Tamanho da fonte */
-  	cursor: pointer; /* Alterar o cursor ao passar o mouse sobre o botão */
-  	margin-right: 10px; /* Espaçamento à direita para separar os botões */
+    background-color: #3EA32E;
+    color: #fff;
+    text-decoration: none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+	border:none;
+	margin-bottom:10px;
 }
-.button:hover {
-	/* background-color: 	#F3A340; /* Cor de fundo do botão ao passar o mouse sobre ele */ 
-	background-color: 	#D2A136; /* Cor de fundo do botão ao passar o mouse sobre ele */
+.btn:hover{
+	 background-color: #cadfc0;
 }
