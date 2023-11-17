@@ -4,14 +4,14 @@ body {
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
-	font-family:Verdana;
+    font-family:Verdana;
 }
 
 .main-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20 px;
 }
 
 .left-div {
