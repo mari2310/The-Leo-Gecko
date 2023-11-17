@@ -20,13 +20,13 @@ body {
 }
 
 .right-div {
-    flex: 1;
-    text-align: center;
-	margin-right:100px;
-	background-color:white;
-	border-radius:10px;
-	opacity:0.6;
-	padding:5px;
+   flex: 1;
+   text-align: center;
+   margin-right:100px;
+   background-color:white;
+   border-radius:10 px;
+   opacity:0.6;
+   padding:5px;
 }
 
 .center {
