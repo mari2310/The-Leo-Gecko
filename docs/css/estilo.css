@@ -1,52 +1,52 @@
 body {
-    background-image: url("../images/fundo.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 0;
-    padding: 0;
-    font-family:Verdana;
+background-image: url("../images/fundo.png");
+background-size: cover;
+background-repeat: no-repeat;
+margin: 0;
+padding: 0;
+font-family:Verdana;
 }
 
 .main-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20 px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px;
 }
 
 .left-div {
-    flex: 1;
-    text-align: center;
+flex: 1;
+text-align: center;
 }
 
 .right-div {
-   flex: 1;
-   text-align: center;
-   margin-right:100px;
-   background-color:white;
-   border-radius:10 px;
-   opacity:0.6;
-   padding:5px;
+flex: 1;
+text-align: center;
+margin-right:100px;
+background-color:white;
+border-radius:10px;
+opacity:0.6;
+padding:5px;
 }
 
 .center {
-    display: block;
-    margin: 0 auto;
-    color: green;
+display: block;
+margin: 0 auto;
+color: green;
 }
 .btn{
-	padding:10px;   
-    font-size: 16px;
-	display: inline-block;
-    background-color: #3EA32E;
-    color: #fff;
-    text-decoration: none;
-    border-radius:15px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-	border:none;
-	margin-bottom:10px;
+padding:10px;   
+font-size: 16px;
+display: inline-block;
+background-color: #3EA32E;
+color: #fff;
+text-decoration: none;
+border-radius:15px;
+cursor: pointer;
+transition: background-color 0.3s;
+border:none;
+margin-bottom:10px;
 }
 .btn:hover{
-	 background-color: #cadfc0;
+background-color: #cadfc0;
 }
