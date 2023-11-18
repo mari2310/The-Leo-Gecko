@@ -9,13 +9,25 @@ O aplicativo tem por finalidade ajudar aos novos donos de Leopardo Gecko com as 
 
 ⌨️Motivação: Esclarecimentos de cuidados com o Gecko.
 
-📦Instalação: app mobile, instalação em smartphone
+📦Aplicação: A aplicação é acessada via web. Posteriormente será desenvolvido uma versão mobile.
 
-⚙️Status: Em processo de codificação.
+⚙️Status: Primeira versão realizada. Posteriomente mais requisitos serão implementados.
 
 🛠️Tecnologia/Framework Utilizados: 
-Ferramentas: 
+Banco de dados: MySQL
+Back-end: PHP
+Front-end: Html e Css
+Design: Photoshop, CorelDraw
+Repositório: Github
+Slides de apresentação da ideia: Canva
+Página Web de apresentação do projeto: Canva
+Modelo de negócio: Prezi
+Prototipagem: Canva
+Modelo conceitual e lógico BD: Br modelo
+Codificação e testes: Notepad++, Wampserver
+Hospedagem da aplicação: 000Webhost
+Gerenciamento do projeto: Trello
 
 ✒️ Autora:Mari Oliveira
 
-🎁 Gratidão: A todos que nos ajudam, amigos , familiares e professores, da menor à maior contribuição, todas são igualmente importantes.
+🎁 Gratidão: A todos que me ajudaram: Deus, amigos, família e professores, da menor à maior contribuição, todas são igualmente importantes.
