@@ -14,18 +14,31 @@ O aplicativo tem por finalidade ajudar aos novos donos de Leopardo Gecko com as 
 ⚙️Status: Primeira versão realizada. Posteriomente mais requisitos serão implementados.
 
 🛠️Tecnologia/Framework Utilizados: 
+
 Banco de dados: MySQL
+
 Back-end: PHP
+
 Front-end: Html e Css
+
 Design: Photoshop, CorelDraw
+
 Repositório: Github
+
 Slides de apresentação da ideia: Canva
+
 Página Web de apresentação do projeto: Canva
+
 Modelo de negócio: Prezi
+
 Prototipagem: Canva
+
 Modelo conceitual e lógico BD: Br modelo
+
 Codificação e testes: Notepad++, Wampserver
+
 Hospedagem da aplicação: 000Webhost
+
 Gerenciamento do projeto: Trello
 
 ✒️ Autora:Mari Oliveira
